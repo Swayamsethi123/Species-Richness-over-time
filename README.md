@@ -8,3 +8,8 @@
 - For the application to be executed, it is imperative that specific data files are present at designated locations. These files have been provided as attachments and should be downloaded and stored in a folder named 'data' prior to running the application.
 - If the code still does not execute, it is necessary to specify the file paths within the application code if the pre-existing paths are not compatible with the system configuration.
 - The system allows for customization of filters, enabling the user to selectively view data pertaining to specific taxa based on their preferences.
+
+
+## References
+- The BioTIME data paper https://doi.org/10.1111/geb.12729
+- Maria’s 2014 Science paper https://doi.org/10.1126/science.1248484
